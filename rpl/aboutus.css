@@ -1,0 +1,27 @@
+.box{
+	border-radius: 15px;
+	background-color: white;
+	width: 500px;
+	padding: 20px;
+	border: 1px solid #CDDFF4;
+	margin: 30px auto 0 auto;
+	transition:all 5s;
+	/*background: linear-gradient(45deg,white,black);*/
+	/*background: radial-gradient(white,black);*/
+}
+h1{
+	text-align: center;
+}
+.header{
+	background-color: #CDDFF4;
+	border-radius: 5%;
+	margin: 0 auto 0 auto;
+	font-weight: bold;
+	width: 520px;
+	padding: 10px;
+	opacity: 0.95;
+	transition:all 2.5s;
+}
+body{
+	background-image: url(images/bg_monstax.png);
+}
